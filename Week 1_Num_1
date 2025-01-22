@@ -1,9 +1,3 @@
-#Je crée une fonction
-
-#Avant toute chose, je dois définir le nom de mon input
-#Je choisi: reponse user
 reponse = input("")
-#Je dis que je veux mettre mon output en minuscule
 reponse = reponse.lower()
-#Je demande de l'écrire (donc print) ET j'ai défini un nom pour l'input donc je dois utiliser le truc "f" devant
 print (f"{reponse}")
