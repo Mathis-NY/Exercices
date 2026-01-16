@@ -1,5 +1,6 @@
 side = int(input('Enter a value for the sides: '))
 
+print()
 
 for i in range(side):
     for j in range (side):
@@ -9,6 +10,8 @@ for i in range(side):
             print(' ', end=' ')
     print()
 
+
+print()
 
 for i in range(side):
     for j in range(side):
